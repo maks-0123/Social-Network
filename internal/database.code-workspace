@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "database"
+		},
+		{
+			"path": "../cmd/web"
+		},
+		{
+			"path": "repository"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "service"
+		},
+		{
+			"path": "handlers"
+		},
+		{
+			"path": "middleware"
+		}
+	],
+	"settings": {}
+}
